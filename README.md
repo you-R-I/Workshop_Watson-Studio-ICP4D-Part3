@@ -1,12 +1,14 @@
-<h1 align="center" style="border-bottom: none;">:bar_chart: IBM Digital Tech Tutorial: Watson Studio Part III</h1>
-<h3 align="center">In this hands-on tutorial you will graphically build and evaluate machine learning models by using the SPSS Modeler flow feature in IBM Watson Studio.</h3>
+<h1 align="center" style="border-bottom: none;">:bar_chart: Introduction to Machine Learning and Watson Studio </h1>
+<h3 align="center">In this hands-on tutorial you will perform data visualization, preparation, and transformation to build a high-quality predictive model for customer churn.</h3>
+
+This tutorial is an updated version of the [IBM Digital Tech Tutorial: Watson Studio](https://github.com/FelixAugenstein/digital-tech-tutorial-watson-studio), which is based on the [Learning path: Getting started with Watson Studio](https://developer.ibm.com/series/learning-path-watson-studio/). Credits and aprreciation to my IBM colleague Felix Augenstein.
 
 ## Prerequisites
 
-1. Sign up for an [IBM Cloud account](https://cloud.ibm.com/registration).
+1. Sign up for an [IBM Cloud account](https://ibm.biz/hsg-cloud).
 2. Fill in the required information and press the „Create Account“ button.
 3. After you submit your registration, you will receive an e-mail from the IBM Cloud team with details about your account. In this e-mail, you will need to click the link provided to confirm your registration.
-4. Now you should be able to login to your new IBM Cloud account ;-)
+4. Now you should be able to login to your new IBM Cloud.
 
 ## Digital Tech Tutorial Watson Studio Part I to IV
 
@@ -16,7 +18,6 @@ This tutorial consists of 4 parts, you can start with part I or any other part, 
 [Part III - graphically build and evaluate machine learning models by using the SPSS Modeler flow](https://github.com/you-R-I/Workshop_Watson-Studio-ICP4D-Part3)<br>
 [Part IV - set up and run Jupyter Notebooks to develop a machine learning model](https://github.com/you-R-I/Workshop_Watson-Studio-ICP4D-Part4)
 
-The 4 parts of this tutorial are based on the [Learning path: Getting started with Watson Studio](https://developer.ibm.com/series/learning-path-watson-studio/).
 
 ## Create model flow
 
